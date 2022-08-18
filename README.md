@@ -4,5 +4,5 @@ This is a great new site.
 p.s. gh-pages rock!
 
 New paragraph.
-Nota new paragraph.
+Note new paragraph.
 
