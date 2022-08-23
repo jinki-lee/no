@@ -1,8 +1,4 @@
-# Hello World!
+# Yeah, neither do I.
 
-This is a great new site.
-p.s. gh-pages rock!
-
-New paragraph.
-Note new paragraph.
-
+I rather read books or watch something on Netflix.
+<href="https://jinki-lee.github.io/blog/" target="_blank">Click me to return back to blog page.</a>
